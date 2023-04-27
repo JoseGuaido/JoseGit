@@ -1,0 +1,30 @@
+*{
+    background-color:black
+}
+.logo{
+    height: 50px;
+    width: 50pxs;
+}
+h1{
+    color: blanchedalmond;
+    font-size: 3em;
+    text-align: center;
+}
+b{
+    color: blanchedalmond;
+}
+ol{
+    color: rgb(95, 199, 3);
+}
+span{
+    color: rgb(95, 199, 3);
+}
+li{
+    color: blanchedalmond;
+}
+ul{
+    color: blanchedalmond;
+}
+p{
+    color: blanchedalmond;
+}
